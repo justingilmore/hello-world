@@ -1,2 +1,4 @@
 # hello-world
-First repository
+#### First repository
+
+**_This is my first time using Git_**
